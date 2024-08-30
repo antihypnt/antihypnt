@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" alt="Prisma"/>
 <img src="https://img.shields.io/badge/electron-000?logo=electron&logoColor=fff&style=flat-square" alt="Electron"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI"/>
 
 ### 🎨 design 🎨
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat-square&logo=Adobe%20after%20effects&logoColor=393665" alt="Adobe After Effects"/>
