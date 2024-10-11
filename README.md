@@ -4,7 +4,7 @@
     
 경기북과학고등학교 19기 (GyeonggiBuk Science High School 19th)
 
----
+<br/><br/>
 
 ### 💬 languages 💬
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript"/>
