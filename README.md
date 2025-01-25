@@ -1,8 +1,6 @@
 <div align="center">
 
 ## antihypnt
-    
-경기북과학고등학교 19기 (GyeonggiBuk Science High School 19th)
 
 <br/><br/>
 
